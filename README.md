@@ -1,1 +1,1 @@
-# ExplodingKittend
+# ExplodingKittens
